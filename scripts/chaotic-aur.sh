@@ -9,8 +9,11 @@ pacman -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring.pkg.tar.zst
 pacman -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-mirrorlist.pkg.tar.zst'
 
 # Append the Chaotic AUR repository to the end of pacman.conf
-printf '\n' >> /etc/pacman.conf
-printf '# User Defined Repositories\n' >> /etc/pacman.conf
-printf '\n' >> /etc/pacman.conf
-printf '[chaotic-aur]\n' >> /etc/pacman.conf
-printf 'Include = /etc/pacman.d/chaotic-mirrorlist' >> /etc/pacman.conf
+{
+    printf '\n'
+    printf '# User Defined Repositories\n'
+    printf '\n'
+    printf '[chaotic-aur]\n'
+    printf 'Include = /etc/pacman.d/chaotic-mirrorlist'
+
+} >> /etc/pacman.conf
