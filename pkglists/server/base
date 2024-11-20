@@ -1,0 +1,14 @@
+base
+base-devel
+dhcpcd
+dkms
+efibootmgr
+git
+grub
+intel-ucode
+iwd
+linux
+linux-firmware
+linux-headers
+nano
+openssh
