@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Download and sign the Chaotic AUR key
 pacman-key --recv-key 3056513887B78AEB --keyserver keyserver.ubuntu.com
