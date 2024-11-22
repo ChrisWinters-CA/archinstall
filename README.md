@@ -12,5 +12,8 @@ This repository, as stated above is a collection of files to help make it faster
 
 - A Replacement For The archinstall Script
   - The official archinstall script pretty much automates the entire installation process, only asking for user input sparingly. Nothing in this repository automates any part of the official installation process. Even the /scripts directory only contains shell scripts to help automate some post-installation tasks, such as enabling the chaotic-aur or copying dotfiles and pacman hooks into the correct directories, which are entirely optional.
+
+- To Be Used As Is
+  - A few things here can be used as is but most of this will need modifying to suit your own system. Everything here is made specifically for my own hardware.
  
 - A Cure For Cancer
