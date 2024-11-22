@@ -12,6 +12,7 @@ dolphin-plugins
 drkonqi
 ffmpegthumbs
 filelight
+gnome-keyring
 gwenview
 kactivitymanagerd
 kaddressbook
@@ -44,7 +45,6 @@ kjournald
 kmail
 kmail-account-wizard
 kmenuedit
-kmix
 konsole
 kontact
 kpipewire
@@ -53,9 +53,6 @@ kscreenlocker
 ksystemlog
 ksystemstats
 ktorrent
-kwallet
-kwallet-pam
-kwalletmanager
 kwayland
 kwin
 kwrited
@@ -94,7 +91,7 @@ powerdevil
 print-manager
 qqc2-breeze-style
 sddm-kcm
-signon-kwallet-extension
+seahorse
 spectacle
 svgpart
 systemsettings
