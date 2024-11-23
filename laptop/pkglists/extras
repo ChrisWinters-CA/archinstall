@@ -45,10 +45,8 @@ lib32-mangohud
 lib32-mesa
 lib32-mpg123
 lib32-ncurses
-lib32-nvidia-utils
 lib32-ocl-icd
 lib32-openal
-lib32-opencl-nvidia
 lib32-pipewire
 lib32-sqlite
 lib32-v4l-utils
@@ -62,10 +60,8 @@ libldap
 libpng
 libpulse
 libva
-libvdpau
 libxcomposite
 libxinerama
-libxnvctrl
 libxslt
 lutris
 mangohud
@@ -76,13 +72,8 @@ noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
 noto-fonts-extra
-nvidia-open
-nvidia-prime
-nvidia-settings
-nvidia-utils
 ocl-icd
 openal
-opencl-nvidia
 p7zip
 pipewire
 pipewire-alsa
