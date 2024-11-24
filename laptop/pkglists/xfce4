@@ -21,6 +21,9 @@ lightdm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
 mousepad
+mpv
+mpv-mpris
+mpv-shim-default-shaders
 papirus-icon-theme
 pavucontrol
 ristretto
