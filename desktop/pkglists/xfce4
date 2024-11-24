@@ -19,6 +19,7 @@ gvfs-smb
 gvfs-wsdd
 lightdm
 lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
 mousepad
 papirus-icon-theme
 parole
