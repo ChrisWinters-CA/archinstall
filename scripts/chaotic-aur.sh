@@ -15,3 +15,6 @@ pacman -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-mirrorlist.pkg.tar.
     printf '[chaotic-aur]\n'
     printf 'Include = /etc/pacman.d/chaotic-mirrorlist'
 } >> /etc/pacman.conf
+
+# Force a full refresh of the pacman database to include the Chaotic AUR
+pacman -Syy
