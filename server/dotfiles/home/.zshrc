@@ -59,7 +59,7 @@ alias mbstatus="sudo systemctl status minecraft-bedrock-server"
 alias mbnew="mbstop && mbwipe && mbstart"
 
 # Reflector
-alias mirup="sudo reflector -c CA,US -l 10 -p https --sort rate --save /etc/pacman.d/mirrorlist"
+alias mirup="sudo reflector --verbose -c CA,US --completion-percent 100 --score 20 -p https --sort rate --save /etc/pacman.d/mirrorlist"
 
 # Pacman
 alias pacup="sudo pacman -Syyu"
