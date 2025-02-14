@@ -45,7 +45,7 @@ alias ls="ls --color=auto"
 alias sysinfo="fastfetch"
 
 # Reflector
-alias mirup="sudo reflector --verbose -c CA,US --completion-percent 100 --score 20 -p https --sort rate --save /etc/pacman.d/mirrorlist"
+alias mirup="sudo reflector --verbose -c CA,US --completion-percent 100 -p https --score 20 --sort rate --save /etc/pacman.d/mirrorlist"
 
 # Pacman
 alias pacup="sudo pacman -Syyu"
