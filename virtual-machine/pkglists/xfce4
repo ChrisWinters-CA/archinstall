@@ -17,7 +17,6 @@ gvfs-nfs
 gvfs-onedrive
 gvfs-smb
 gvfs-wsdd
-labwc
 lightdm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
