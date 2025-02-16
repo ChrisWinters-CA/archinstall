@@ -39,6 +39,7 @@ khelpcenter
 kinfocenter
 kio-admin
 kio-extras
+kio-fuse
 kio-zeroconf
 kjournald
 kmail
