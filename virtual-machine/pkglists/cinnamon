@@ -12,3 +12,5 @@ gvfs-nfs
 gvfs-onedrive
 gvfs-smb
 gvfs-wsdd
+xdg-user-dirs
+xdg-user-dirs-gtk
