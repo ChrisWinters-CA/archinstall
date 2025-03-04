@@ -1,3 +1,5 @@
+arc-gtk-theme
+blueman
 cinnamon
 gcr-4
 gnome-keyring
@@ -12,5 +14,12 @@ gvfs-nfs
 gvfs-onedrive
 gvfs-smb
 gvfs-wsdd
+lightdm
+lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
+network-manager-applet
+papirus-icon-theme
+pavucontrol
+seahorse
 xdg-user-dirs
 xdg-user-dirs-gtk
