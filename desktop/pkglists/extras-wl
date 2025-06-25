@@ -23,6 +23,8 @@ gnutls
 goverlay
 gst-plugins-base-libs
 htop
+jellyfin-ffmpeg
+jellyfin-server
 jre-openjdk
 lib32-alsa-lib
 lib32-alsa-plugins
