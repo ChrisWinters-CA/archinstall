@@ -54,5 +54,9 @@ alias pacse="sudo pacman -Ss"
 alias pacre="sudo pacman -R"
 alias pacor="sudo pacman -Qdtq | pacman -Rns -"
 
+# Pacman Keyring
+alias keyup="sudo pacman -Sy --needed archlinux-keyring"
+alias keyrefresh="sudo pacman-keyring --refresh-keys"
+
 # Full System Upgrade
-alias arch-upgrade="mirup && pacup"
+alias arch-upgrade="mirup && keyup && pacup"
