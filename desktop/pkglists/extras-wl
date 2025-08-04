@@ -5,6 +5,7 @@ adobe-source-sans-fonts
 alsa-lib
 alsa-plugins
 alsa-utils
+ast-firmware
 bluez
 bluez-cups
 bluez-tools
@@ -17,7 +18,6 @@ fastfetch
 firefox
 gamemode
 giflib
-gimp
 gnupg
 gnutls
 goverlay
@@ -26,6 +26,7 @@ htop
 jellyfin-ffmpeg
 jellyfin-server
 jre-openjdk
+krita
 lib32-alsa-lib
 lib32-alsa-plugins
 lib32-gamemode
@@ -47,6 +48,7 @@ lib32-mpg123
 lib32-ncurses
 lib32-ocl-icd
 lib32-openal
+lib32-opencl-icd-loader
 lib32-pipewire
 lib32-sqlite
 lib32-v4l-utils
@@ -62,6 +64,7 @@ libxcomposite
 libxinerama
 libxslt
 mangohud
+mpg123
 ncurses
 networkmanager
 noto-fonts
@@ -70,6 +73,7 @@ noto-fonts-emoji
 noto-fonts-extra
 ocl-icd
 openal
+opencl-icd-loader
 p7zip
 pipewire
 pipewire-alsa
@@ -79,6 +83,7 @@ pipewire-pulse
 plymouth
 rebuild-detector
 reflector
+samba
 sqlite
 steam
 system-config-printer
