@@ -61,7 +61,6 @@ libva
 libxcomposite
 libxinerama
 libxslt
-lutris
 mangohud
 ncurses
 networkmanager
@@ -83,11 +82,13 @@ reflector
 sqlite
 steam
 system-config-printer
+thunderbird
 ttf-dejavu
 ttf-droid
 ttf-inconsolata
 ttf-indic-otf
 ttf-liberation
+ufw
 unrar
 unzip
 v4l-utils
