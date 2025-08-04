@@ -12,7 +12,6 @@ ffmpegthumbs
 filelight
 gwenview
 kactivitymanagerd
-kaddressbook
 kalk
 kate
 kbackup
@@ -21,11 +20,9 @@ kcolorchooser
 kcron
 kde-cli-tools
 kde-gtk-config
-kdeconnect
 kdecoration
 kdegraphics-thumbnailers
 kdenetwork-filesharing
-kdepim-addons
 kdeplasma-addons
 kdf
 kdialog
@@ -44,7 +41,6 @@ kmag
 kmenuedit
 kompare
 konsole
-kontact
 kpat
 kpipewire
 kscreen
