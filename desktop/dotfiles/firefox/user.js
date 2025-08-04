@@ -292,7 +292,7 @@ user_pref("widget.non-native-theme.scrollbar.style", 2);
 user_pref("widget.use-xdg-desktop-portal.file-picker", 1);
 user_pref("widget.use-xdg-desktop-portal.location", 1);
 user_pref("widget.use-xdg-desktop-portal.mime-handler", 1);
-user_pref("widget.use-xdg-desktop-portal.native-messaging", 0);
+user_pref("widget.use-xdg-desktop-portal.native-messaging", 1);
 user_pref("widget.use-xdg-desktop-portal.open-uri", 1);
 user_pref("widget.use-xdg-desktop-portal.settings", 1);
 
@@ -321,4 +321,5 @@ user_pref("mousewheel.default.delta_multiplier_y", 300); // 250-400; adjust this
 /****************************************************************************
  * END: BETTERFOX                                                           *
 ****************************************************************************/
+
 
