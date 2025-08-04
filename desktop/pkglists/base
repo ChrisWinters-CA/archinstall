@@ -8,6 +8,7 @@ grub
 intel-ucode
 linux
 linux-firmware
+linux-firmware-qlogic
 linux-headers
 nano
 openssh
