@@ -52,7 +52,7 @@ alias pacup="sudo pacman -Syyu"
 alias pacin="sudo pacman -S"
 alias pacse="sudo pacman -Ss"
 alias pacre="sudo pacman -R"
-alias pacor="sudo pacman -Qdtq | pacman -Rns -"
+alias pacor="sudo pacman -Qdtq | sudo pacman -Rns -"
 
 # Pacman Keyring
 alias keyup="sudo pacman -Sy --needed archlinux-keyring"
