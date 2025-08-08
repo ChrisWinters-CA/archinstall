@@ -23,6 +23,7 @@ gst-plugins-base-libs
 htop
 jellyfin-ffmpeg
 jellyfin-server
+jellyfin-web
 jre-openjdk
 lib32-alsa-lib
 lib32-alsa-plugins
