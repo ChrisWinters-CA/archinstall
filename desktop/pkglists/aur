@@ -1,7 +1,7 @@
 aic94xx-firmware
 alvr
 ast-firmware
-bibata-cursor-theme
+bibata-cursor-theme-bin
 cemu-git
 flycast
 gzdoom
@@ -15,5 +15,6 @@ syncthingtray-qt6
 ttf-meslo-nerd-font-powerlevel10k
 upd72020x-fw
 wd719x-firmware
+wayvr-dashboard-git
 wlx-overlay-s-git
 zsh-theme-powerlevel10k-git
