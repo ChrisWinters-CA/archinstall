@@ -85,6 +85,7 @@ retroarch
 retroarch-assets-ozone
 retroarch-assets-xmb
 samba
+sshfs
 sqlite
 steam
 syncthing
