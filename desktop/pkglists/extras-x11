@@ -19,6 +19,7 @@ gamemode
 giflib
 gnupg
 gnutls
+goverlay
 gst-plugins-base-libs
 htop
 jellyfin-ffmpeg
