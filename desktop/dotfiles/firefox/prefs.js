@@ -397,7 +397,3 @@ user_pref("urlclassifier.trackingSkipURLs", "");
 user_pref("webgl.force-enabled", true);
 user_pref("widget.non-native-theme.scrollbar.style", 2);
 user_pref("widget.use-xdg-desktop-portal.file-picker", 1);
-user_pref("widget.use-xdg-desktop-portal.location", 1);
-user_pref("widget.use-xdg-desktop-portal.mime-handler", 1);
-user_pref("widget.use-xdg-desktop-portal.open-uri", 1);
-user_pref("widget.use-xdg-desktop-portal.settings", 1);
