@@ -7,12 +7,16 @@
     "height": 15,
     "padding": {
       "top": 2
+    },
+    "color": {
+    "1": "white",
+    "2": "blue"
     }
   },
   "display": {
     "color": {
-      "keys": "cyan",
-      "title": "cyan"
+      "keys": "blue",
+      "title": "white"
     },
     "separator": "➜   " 
   },
@@ -30,64 +34,64 @@
     "break",
     {
       "key": "    󰣇 OS           ",
-      "keyColor": "cyan",
+      "keyColor": "white",
       "type": "os"
     },
     {
       "key": "     Kernel       ",
-      "keyColor": "cyan",
+      "keyColor": "white",
       "type": "kernel"
     },
     {
       "key": "     Packages     ",
-      "keyColor": "cyan",
+      "keyColor": "white",
       "type": "packages"
     },
     {
       "key": "    ⏻ Uptime       ",
-      "keyColor": "cyan",
+      "keyColor": "white",
       "type": "uptime"
     },
     "break",
     {
       "key": "    󰍹 Display      ",
-      "keyColor": "cyan",
+      "keyColor": "white",
       "type": "display"
     },
     {
       "key": "    󰌢 Machine      ",
-      "keyColor": "cyan",
+      "keyColor": "blue",
       "type": "host"
     },
     {
       "key": "     WM           ",
-      "keyColor": "cyan",
+      "keyColor": "blue",
       "type": "wm"
     },
     {
       "key": "     Terminal     ",
-      "keyColor": "cyan",
+      "keyColor": "blue",
       "type": "terminal"
     },
     {
       "key": "     Font         ",
-      "keyColor": "cyan",
+      "keyColor": "blue",
       "type": "terminalfont"
     },
     "break",
     {
       "key": "    󰻠 CPU          ",
-      "keyColor": "cyan",
+      "keyColor": "blue",
       "type": "cpu"
     },
     {
       "key": "    󰍛 GPU          ",
-      "keyColor": "cyan",
+      "keyColor": "blue",
       "type": "gpu"
     },
     {
       "key": "    󰑭 Memory       ",
-      "keyColor": "cyan",
+      "keyColor": "blue",
       "type": "memory"
     },
     "break",
