@@ -20,6 +20,7 @@ giflib
 gnupg
 gnutls
 gst-plugins-base-libs
+gtk3
 htop
 jellyfin-ffmpeg
 jellyfin-server
@@ -31,6 +32,7 @@ lib32-gamemode
 lib32-giflib
 lib32-gnutls
 lib32-gst-plugins-base-libs
+lib32-gtk3
 lib32-libgcrypt
 lib32-libgpg-error
 lib32-libjpeg-turbo
