@@ -68,6 +68,10 @@ mangohud
 mpg123
 ncurses
 networkmanager
+noto-fonts
+noto-fonts-cjk
+noto-fonts-emoji
+noto-fonts-extra
 ocl-icd
 openal
 opencl-icd-loader
