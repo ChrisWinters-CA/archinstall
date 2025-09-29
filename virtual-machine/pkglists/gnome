@@ -1,5 +1,4 @@
 baobab
-d-spy
 dconf-editor
 file-roller
 gdm
@@ -19,9 +18,6 @@ gnome-font-viewer
 gnome-keyring
 gnome-logs
 gnome-menus
-gnome-multi-writer
-gnome-music
-gnome-notes
 gnome-session
 gnome-settings-daemon
 gnome-shell
@@ -48,13 +44,11 @@ gvfs-wsdd
 loupe
 nautilus
 papers
-polari
-rygel
 seahorse
+showtime
 sushi
 sysprof
 tecla
-totem
 xdg-desktop-portal-gnome
 xdg-user-dirs-gtk
 yelp
