@@ -20,7 +20,6 @@ giflib
 gnupg
 gnutls
 gst-plugins-base-libs
-gtk3
 htop
 jellyfin-ffmpeg
 jellyfin-server
