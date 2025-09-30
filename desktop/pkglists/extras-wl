@@ -104,6 +104,8 @@ ufw
 unrar
 unzip
 v4l-utils
+vlc
+vlc-plugins-all
 wayland
 wine-staging
 wireplumber
