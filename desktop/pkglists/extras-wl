@@ -20,8 +20,6 @@ giflib
 gnupg
 gnutls
 gst-plugins-base-libs
-gtk3
-gtk4
 htop
 jellyfin-ffmpeg
 jellyfin-server
@@ -82,7 +80,6 @@ pipewire-alsa
 pipewire-audio
 pipewire-jack
 pipewire-pulse
-plattenalbum
 plymouth
 protonmail-bridge
 protonmail-bridge-core
