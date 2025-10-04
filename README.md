@@ -17,3 +17,4 @@ This repository, as stated above is a collection of files to help make it faster
   - A few things here can be used as is but most of this will need modifying to suit your own system. Everything here is made specifically for my own hardware.
  
 - A Cure For Cancer
+  - If I need to explain this maybe you should try Linux Mint...
