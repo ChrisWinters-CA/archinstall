@@ -2,6 +2,7 @@ alacritty
 aquamarine
 cliphist
 dunst
+gnome-keyring
 gtk3
 gtk4
 gvfs
@@ -35,6 +36,7 @@ qt5-wayland
 qt5ct
 qt6-wayland
 qt6ct
+seahorse
 uwsm
 waybar
 wireplumber
