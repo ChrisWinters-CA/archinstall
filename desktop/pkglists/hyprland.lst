@@ -29,7 +29,7 @@ hyprpaper
 hyprpicker
 hyprpolkitagent
 hyprutils
-nautilus
+mousepad
 nerd-fonts
 network-manager-applet
 nwg-look
@@ -38,8 +38,14 @@ qt5-wayland
 qt5ct
 qt6-wayland
 qt6ct
+ristretto
 seahorse
+thunar
+thunar-archive-plugin
+thunar-media-tags-plugin
+thunar-volman
 uwsm
 waybar
 wireplumber
+xarchiver
 xdg-desktop-portal-hyprland
