@@ -80,12 +80,12 @@
     },
     "break",
     {
-      "key": "    󰻠 CPU          ",
+      "key": "    󰍛 CPU          ",
       "keyColor": "blue",
       "type": "cpu"
     },
     {
-      "key": "    󰍛 GPU          ",
+      "key": "    󰢮 GPU          ",
       "keyColor": "blue",
       "type": "gpu"
     },
