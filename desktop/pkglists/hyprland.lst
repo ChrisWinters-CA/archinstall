@@ -2,6 +2,7 @@ alacritty
 aquamarine
 blueman
 cliphist
+file-roller
 galculator
 gnome-keyring
 gtk3
@@ -30,6 +31,7 @@ hyprpicker
 hyprpolkitagent
 hyprsunset
 hyprutils
+nautilus
 nerd-fonts
 network-manager-applet
 nwg-look
@@ -41,11 +43,6 @@ qt6ct
 ristretto
 seahorse
 swaync
-thunar
-thunar-archive-plugin
-thunar-media-tags-plugin
-thunar-volman
 uwsm
 wireplumber
-xarchiver
 xdg-desktop-portal-hyprland
