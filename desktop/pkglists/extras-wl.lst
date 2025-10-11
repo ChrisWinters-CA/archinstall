@@ -66,9 +66,7 @@ mpd
 mpg123
 ncurses
 networkmanager
-noto-fonts
 noto-fonts-cjk
-noto-fonts-emoji
 ocl-icd
 openal
 opencl-icd-loader
@@ -99,8 +97,6 @@ ufw
 unrar
 unzip
 v4l-utils
-vlc
-vlc-plugins-all
 wayland
 wine-staging
 wireplumber
