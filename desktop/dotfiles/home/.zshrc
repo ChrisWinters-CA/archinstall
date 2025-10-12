@@ -59,9 +59,6 @@ alias yayin="yay -S"
 alias yayse="yay -Ss"
 alias yayre="yay -R"
 
-# Paru
-alias parup="paru -Syu"
-
 # Pacman Keyring
 alias keyup="sudo pacman -Sy --needed archlinux-keyring"
 alias keyrefresh="sudo pacman-keyring --refresh-keys"
