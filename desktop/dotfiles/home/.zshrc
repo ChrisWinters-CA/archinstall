@@ -43,20 +43,28 @@ alias ls="ls --color=auto"
 
 # Fastfetch
 alias sysinfo="fastfetch"
-
 # Reflector
-alias mirup="reflector --verbose -c CA,US -p https -l 20 --sort rate --save /etc/pacman.d/mirrorlist"
+alias mirup="sudo reflector --verbose -c CA,US -l 20 -f 5  -p https --sort rate --save /etc/pacman.d/mirrorlist"
 
 # Pacman
-alias pacup="pacman -Syu"
-alias pacin="pacman -S"
-alias pacse="pacman -Ss"
-alias pacre="pacman -R"
-alias pacor="pacman -Qdtq | pacman -Rns -"
+alias pacup="sudo pacman -Syu"
+alias pacin="sudo pacman -S"
+alias pacse="sudo pacman -Ss"
+alias pacre="sudo pacman -R"
+alias pacor="sudo pacman -Qdtq | sudo pacman -Rns -"
+
+# Yay
+alias yayup="yay -Syu"
+alias yayin="yay -S"
+alias yayse="yay -Ss"
+alias yayre="yay -R"
+
+# Paru
+alias parup="paru -Syu"
 
 # Pacman Keyring
-alias keyup="pacman -Sy --needed archlinux-keyring"
-alias keyrefresh="pacman-keyring --refresh-keys"
+alias keyup="sudo pacman -Sy --needed archlinux-keyring"
+alias keyrefresh="sudo pacman-keyring --refresh-keys"
 
 # Full System Upgrade
-alias arch-upgrade="mirup && keyup && pacup"
+alias arch-upgrade="mirup && keyup && parup"
