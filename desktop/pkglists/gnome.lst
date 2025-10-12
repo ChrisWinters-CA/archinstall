@@ -3,15 +3,13 @@ dconf-editor
 file-roller
 gdm
 geary
-ghex
 gnome-backgrounds
+gnome-boxes
 gnome-calculator
 gnome-calendar
 gnome-characters
-gnome-clocks
 gnome-color-manager
 gnome-console
-gnome-contacts
 gnome-control-center
 gnome-disk-utility
 gnome-font-viewer
@@ -44,7 +42,6 @@ loupe
 nautilus
 papers
 seahorse
-showtime
 sushi
 sysprof
 tecla
