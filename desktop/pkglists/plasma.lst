@@ -31,6 +31,7 @@ kgpg
 kinfocenter
 kio-admin
 kio-extras
+kio-fuse
 kio-gdrive
 kio-zeroconf
 kmenuedit
