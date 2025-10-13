@@ -25,6 +25,7 @@ htop
 jellyfin-ffmpeg
 jellyfin-server
 jellyfin-web
+jre-openjdk
 lib32-alsa-lib
 lib32-alsa-plugins
 lib32-gamemode
