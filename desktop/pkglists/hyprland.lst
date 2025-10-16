@@ -32,7 +32,6 @@ hyprsunset
 hyprutils
 kalk
 kate
-nautilus
 nerd-fonts
 nm-connection-editor
 nwg-look
@@ -44,6 +43,7 @@ qt6-wayland
 ristretto
 sddm
 seahorse
-swaync
+swayn
+thunar
 wireplumber
 xdg-desktop-portal-hyprland
