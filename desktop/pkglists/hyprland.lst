@@ -37,6 +37,7 @@ nm-connection-editor
 nwg-look
 pavucontrol
 pipewire
+power-profiles-daemon
 qt5-wayland
 qt5ct
 qt6-wayland
