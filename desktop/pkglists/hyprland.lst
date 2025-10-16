@@ -5,6 +5,7 @@ cliphist
 file-roller
 galculator
 gnome-keyring
+grim
 gtk3
 gtk4
 gvfs
@@ -44,6 +45,7 @@ qt6-wayland
 ristretto
 sddm
 seahorse
+slurp
 swayn
 thunar
 thunar-archive-plugin
@@ -51,4 +53,5 @@ thunar-media-tags-plugin
 thunar-volman
 tumbler
 wireplumber
+xarchiver
 xdg-desktop-portal-hyprland
