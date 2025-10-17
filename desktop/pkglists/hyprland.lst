@@ -35,11 +35,9 @@ hyprpolkitagent
 hyprsunset
 hyprutils
 kalk
-nerd-fonts
 nm-connection-editor
 nwg-look
 pavucontrol
-pipewire
 power-profiles-daemon
 qt5-wayland
 qt5ct
@@ -54,6 +52,5 @@ thunar-archive-plugin
 thunar-media-tags-plugin
 thunar-volman
 tumbler
-wireplumber
 xarchiver
 xdg-desktop-portal-hyprland
