@@ -256,8 +256,8 @@ user_pref("network.trr.uri", "https://doh.libredns.gr/noads"); // Hagezi Light +
 user_pref("network.trr.mode", 2);
 user_pref("network.trr.max-fails", 5);
 
-// PREF: hide site shortcut thumbnails on New Tab page
-user_pref("browser.newtabpage.activity-stream.feeds.topsites", false);
+// PREF: show site shortcut thumbnails on New Tab page
+user_pref("browser.newtabpage.activity-stream.feeds.topsites", true);
 
 // PREF: hide weather on New Tab page
 user_pref("browser.newtabpage.activity-stream.showWeather", false);
@@ -285,8 +285,8 @@ user_pref("sidebar.verticalTabs", true);
 // PREF: lower memory usage and increase page rendering performance
 user_pref("accessibility.force_disabled", 1);
 
-// PREF: thin scrollbar
-user_pref("widget.non-native-theme.scrollbar.style", 2);
+// PREF: scrollbar style
+user_pref("widget.non-native-theme.scrollbar.style", 1);
 
 // PRED: use xdg-desktop-portal
 user_pref("widget.use-xdg-desktop-portal.file-picker", 1);
