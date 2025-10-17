@@ -1,6 +1,7 @@
 alacritty
 aquamarine
 blueman
+brightnessctl
 cliphist
 file-roller
 fzf
@@ -51,6 +52,7 @@ thunar
 thunar-archive-plugin
 thunar-media-tags-plugin
 thunar-volman
+ttf-0xproto-nerd
 tumbler
 wireplumber
 xarchiver
