@@ -35,6 +35,7 @@ hyprpolkitagent
 hyprsunset
 hyprutils
 kalk
+ly
 nm-connection-editor
 nwg-look
 pavucontrol
@@ -43,7 +44,6 @@ qt5-wayland
 qt5ct
 qt6-wayland
 ristretto
-sddm
 seahorse
 slurp
 swayn
