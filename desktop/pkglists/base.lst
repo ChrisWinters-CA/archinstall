@@ -8,5 +8,5 @@ linux
 linux-firmware
 linux-firmware-qlogic
 linux-headers
-micro
+nano
 openssh
