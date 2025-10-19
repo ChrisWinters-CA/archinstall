@@ -3,14 +3,11 @@ aurorae
 bluedevil
 breeze
 breeze-gtk
-breeze-plymouth
-discover
 dolphin
 dolphin-plugins
 drkonqi
 ffmpegthumbs
 filelight
-flatpak-kcm
 gwenview
 kactivitymanagerd
 kate
@@ -52,7 +49,6 @@ kwallet-pam
 kwalletmanager
 kwayland
 kwin
-kwin-x11
 kwrited
 layer-shell-qt
 libkscreen
@@ -86,7 +82,6 @@ plymouth-kcm
 polkit-kde-agent
 powerdevil
 print-manager
-qqc2-breeze-style
 sddm
 sddm-kcm
 signon-kwallet-extension
@@ -94,6 +89,5 @@ spectacle
 svgpart
 sweeper
 systemsettings
-wacomtablet
 xdg-desktop-portal-kde
 yakuake
