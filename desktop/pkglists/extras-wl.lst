@@ -64,14 +64,10 @@ libxcomposite
 libxinerama
 libxslt
 mangohud
-mpc
-mpd
 mpd-mpris
 mpg123
 mpv
-ncmpcpp
 ncurses
-nerd-fonts
 networkmanager
 noto-fonts-cjk
 ocl-icd
