@@ -288,8 +288,27 @@ user_pref("accessibility.force_disabled", 1);
 // PREF: scrollbar style
 user_pref("widget.non-native-theme.scrollbar.style", 1);
 
-// PRED: use xdg-desktop-portal
+// PREF: use xdg-desktop-portal
 user_pref("widget.use-xdg-desktop-portal.file-picker", 1);
+
+// PREF: disable all ML/AI features
+user_pref("browser.ml.chat.maxLength", 0);
+user_pref("browser.ml.chat.page", false);
+user_pref("browser.ml.chat.page.footerBadge", false);
+user_pref("browser.ml.chat.page.menuBadge", false);
+user_pref("browser.ml.chat.prompt.prefix", "{}");
+user_pref("browser.ml.chat.prompts.0", "{}");
+user_pref("browser.ml.chat.prompts.1", "{}");
+user_pref("browser.ml.chat.prompts.3", "{}");
+user_pref("browser.ml.chat.prompts.4", "{}");
+user_pref("browser.ml.chat.shortcuts", false);
+user_pref("browser.ml.chat.shortcuts.custom", false);
+user_pref("browser.ml.chat.sidebar", false);
+user_pref("browser.ml.linkPreview.enabled", false);
+user_pref("browser.ml.linkPreview.longPress", false);
+user_pref("browser.ml.modelHubRootUrl", "example.com");
+user_pref("extensions.ml.enabled", false);
+user_pref("sidebar.notification.badge.aichat", false);
 
 /****************************************************************************
  * SECTION: SMOOTHFOX                                                       *
