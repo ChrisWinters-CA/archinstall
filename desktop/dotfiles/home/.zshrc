@@ -54,10 +54,9 @@ alias pacre="sudo pacman -R"
 alias pacor="sudo pacman -Qdtq | sudo pacman -Rns -"
 
 # Yay
-alias yayup="yay -Syu"
-alias yayin="yay -S"
-alias yayse="yay -Ss"
-alias yayre="yay -R"
+alias parup="paru -Syu"
+alias parin="paru -S"
+alias parun="paru -R"
 
 # Pacman Keyring
 alias keyup="sudo pacman -Sy --needed archlinux-keyring"
