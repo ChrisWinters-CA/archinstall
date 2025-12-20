@@ -9,7 +9,6 @@ bluez
 bluez-cups
 bluez-tools
 bluez-utils
-cachyos-rate-mirrors
 cups
 cups-pdf
 ddclient
@@ -98,7 +97,7 @@ unrar
 unzip
 v4l-utils
 wayland
-wine-cachyos
+wine-staging
 wireplumber
 xdg-user-dirs
 xdg-utils
