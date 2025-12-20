@@ -2,12 +2,10 @@ glu
 lib32-glu
 lib32-mesa
 lib32-mesa-utils
-lib32-mesa-vdpau
 lib32-vulkan-icd-loader
 lib32-vulkan-radeon
 mesa
 mesa-utils
-mesa-vdpau
 vulkan-icd-loader
 vulkan-radeon
 vulkan-tools
