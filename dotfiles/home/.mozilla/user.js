@@ -167,6 +167,7 @@ user_pref("browser.toolbars.bookmarks.visibility", "never");
 user_pref("browser.uidensity", 1);
 user_pref("extensions.getAddons.showPane", false);
 user_pref("extensions.htmlaboutaddons.recommendations.enabled", false);
+user_pref("media.videocontrols.picture-in-picture.enabled", false);
 
 /** THEME ADJUSTMENTS ***/
 user_pref("browser.compactmode.show", true);
