@@ -1,0 +1,47 @@
+{
+  "policies": {
+    "DisableFeedbackCommands": true,
+    "DisableFirefoxStudies": true,
+    "DisablePocket": true,
+    "DisableTelemetry": true,
+    "NoDefaultBookmarks": true,
+    "DontCheckDefaultBrowser": false,
+    "NetworkPrediction": false,
+    "EnableTrackingProtection": {
+      "Value": true,
+      "Fingerprinting": true,
+      "Cryptomining": true,
+      "EmailTracking": true
+    },
+    "DNSOverHTTPS": {
+      "Enabled": true
+    },
+    "FirefoxHome": {
+      "SponsoredPocket": false,
+      "Pocket": false,
+      "Highlights": false,
+      "SponsoredTopSites": false,
+      "TopSites": true,
+      "Search": false
+    },
+    "Extensions": {
+      "Uninstall": [
+        "amazondotcom@search.mozilla.org",
+        "bing@search.mozilla.org",
+        "ebay@search.mozilla.org",
+        "google@search.mozilla.org",
+        "duckduckgo@search.mozilla.org",
+        "twitter@search.mozilla.org"
+      ]
+    },
+    "UserMessaging": {
+      "FeatureRecommendations": false,
+      "ExtensionRecommendations": false,
+      "WhatsNew": false,
+      "UrlbarInterventions": false,
+      "SkipOnboarding": true,
+      "FirefoxLabs": false,
+      "MoreFromMozilla": false
+    }
+  }
+}
