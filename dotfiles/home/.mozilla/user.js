@@ -295,6 +295,9 @@ user_pref("layout.word_select.eat_space_to_next_word", false);
 user_pref("media.autoplay.blocking_policy", 2);
 user_pref("media.autoplay.default", 5);
 
+/* ENABLE MIDDLE MOUSE AUTOSCROLL */
+user_pref("general.autoScroll", true);
+
 /***********************************
 * END: USER INTERFACE & EXPERIENCE *
 ************************************
