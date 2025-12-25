@@ -4,7 +4,7 @@
  \**************************************************************************/
 
 /****************************************************************************
- * SECTION: PERFORMANCE                                                     *
+ * SECTION: FASTFOX                                                         *
 ****************************************************************************/
 /** GENERAL ***/
 user_pref("gfx.content.skia-font-cache-size", 32);
@@ -53,7 +53,7 @@ user_pref("network.http.speculative-parallel-limit", 0);
 user_pref("network.prefetch-next", false);
 
 /****************************************************************************
- * SECTION: SECURITY                                                        *
+ * SECTION: SECUREFOX                                                       *
 ****************************************************************************/
 /** TRACKING PROTECTION ***/
 user_pref("browser.contentblocking.category", "strict");
@@ -145,13 +145,15 @@ user_pref("toolkit.telemetry.updatePing.enabled", false);
 user_pref("app.normandy.api_url", "");
 user_pref("app.normandy.enabled", false);
 user_pref("app.shield.optoutstudies.enabled", false);
+user_pref("browser.preferences.experimental", false);
+user_pref("browser.preferences.experimental.hidden", true);
 
 /** CRASH REPORTS ***/
 user_pref("breakpad.reportURL", "");
 user_pref("browser.tabs.crashReporting.sendReport", false);
 
 /****************************************************************************
- * SECTION: UI                                                              *
+ * SECTION: PESKYFOX                                                        *
 ****************************************************************************/
 /** MOZILLA UI ***/
 user_pref("browser.aboutConfig.showWarning", false);
@@ -167,7 +169,6 @@ user_pref("browser.toolbars.bookmarks.visibility", "never");
 user_pref("browser.uidensity", 1);
 user_pref("extensions.getAddons.showPane", false);
 user_pref("extensions.htmlaboutaddons.recommendations.enabled", false);
-user_pref("media.videocontrols.picture-in-picture.enabled", false);
 
 /** THEME ADJUSTMENTS ***/
 user_pref("browser.compactmode.show", true);
@@ -231,7 +232,7 @@ user_pref("layout.word_select.eat_space_to_next_word", false);
 user_pref("browser.newtabpage.activity-stream.feeds.topsites", true);
 user_pref("browser.newtabpage.activity-stream.topSitesRows", 2);
 user_pref("browser.newtabpage.blocked", "{\"eV8/WsSLxHadrTL1gAxhug==\":1,\"gLv0ja2RYVgxKdp0I5qwvA==\":1,\"Sqf4D/UUFWy5ggc5+HqFYA==\":1,\"mSyqhHF+GRpCZEbIVUF/Kg==\":1,\"26UbzFJ7qT9/4DhodHKA1Q==\":1,\"O3CPV5TXvL82QE8rk4umKA==\":1,\"TYwhwW+azUPl5FCRfNSnEg==\":1,\"zerT4A1ewzlLo2IlYwRH/g==\":1,\"dBxQTDpR/GeCAQihrsBT4g==\":1,\"Dzz/DVGov+OGN1uVBgTAnQ==\":1,\"/9hmYI+T+2T+pz5MmQ2g8g==\":1,\"10hfMHw3gianGzC5ac7qGQ==\":1,\"EfZewCuiDDWrFu3U/OVzAA==\":1,\"E0+zHzkPq6dd3pDqu1Hr4A==\":1,\"yM4K0oTsrEfs+xFU26JLHQ==\":1,\"fg9PCY5jRG9jV3bHFy3eJQ==\":1,\"OYQ7p/M1O4RC+nvGNyPPEg==\":1,\"3wbmnroJh9s0TJqnFJ9xhQ==\":1}");
-user_pref("browser.newtabpage.pinned", "[{"url":"https://archlinux.org","label":"Arch Linux"},{"url":"https://github.com","label":"GitHub"},{"url":"https://www.youtube.com","label":"YouTube"},{"url":"https://rumble.com","label":"Rumble"},{"url":"https://vrchat.com/home","label":"VRChat"},{"url":"https://mybenefits.mcss.gov.on.ca/","label":"ODSP"},{"url":"https://mail.proton.me/","label":"ProtonMail"},{"url":"https://porkbun.com/","label":"Porkbun"},{"url":"http://192.168.0.1","label":"Router Prime"},{"url":"http://192.168.0.4","label":"Router VR"},{"url":"http://192.168.0.2/","label":"Extender TF"},{"url":"http://192.168.0.3/","label":"Extender MF"},{"url":"https://gog-games.to","label":"GOG Games"},{"url":"https://elamigos.site/","label":"ElAmigos"},{"url":"https://nxbrew.net/","label":"NXBrew"},{"url":"https://5mind.com","label":"5mind"}]");
+user_pref("browser.newtabpage.pinned", "[{\"url\":\"https://archlinux.org\",\"label\":\"Arch Linux\"},{\"url\":\"https://github.com\",\"label\":\"GitHub\"},{\"url\":\"https://www.youtube.com\",\"label\":\"YouTube\"},{\"url\":\"https://rumble.com\",\"label\":\"Rumble\"},{\"url\":\"https://vrchat.com/home\",\"label\":\"VRChat\"},{\"url\":\"https://mybenefits.mcss.gov.on.ca/\",\"label\":\"ODSP\"},{\"url\":\"https://mail.proton.me/\",\"label\":\"ProtonMail\"},{\"url\":\"https://porkbun.com/\",\"label\":\"Porkbun\"},{\"url\":\"http://192.168.0.1\",\"label\":\"Router Prime\"},{\"url\":\"http://192.168.0.4\",\"label\":\"Router VR\"},{\"url\":\"http://192.168.0.2/\",\"label\":\"Extender TF\"},{\"url\":\"http://192.168.0.3/\",\"label\":\"Extender MF\"},{\"url\":\"https://gog-games.to\",\"label\":\"GOG Games\"},{\"url\":\"https://elamigos.site/\",\"label\":\"ElAmigos\"},{\"url\":\"https://nxbrew.net/\",\"label\":\"NXBrew\"},{\"url\":\"https://5mind.com\",\"label\":\"5mind\"}]");
 
 // PREF: remove default Top Sites (Facebook, Twitter, etc.)
 // This does not block you from adding your own.
@@ -330,5 +331,5 @@ user_pref("general.smoothScroll.stopDecelerationWeighting", "1");
 user_pref("mousewheel.default.delta_multiplier_y", 300); // 250-400; adjust this number to your liking
 
 /****************************************************************************
- * END: SNOWFOX                                                             *
+ * END: BETTERFOX                                                           *
 ****************************************************************************/
