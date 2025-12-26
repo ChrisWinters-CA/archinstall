@@ -254,6 +254,7 @@ user_pref("extensions.postDownloadThirdPartyPrompt", false);
 user_pref("browser.download.useDownloadDir", false);
 user_pref("browser.urlbar.suggest.topsites", false);
 user_pref("browser.firefox-view.feature-tour", "{\"screen\":\"\",\"complete\":true}");
+user_pref("media.videocontrols.picture-in-picture.enabled", false);
 
 /* THEME ADJUSTMENTS */
 user_pref("browser.compactmode.show", true);
