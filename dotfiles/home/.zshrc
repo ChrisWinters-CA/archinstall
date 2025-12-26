@@ -43,8 +43,9 @@ alias ls="ls --color=auto"
 
 # Fastfetch
 alias sysinfo="fastfetch"
-# Reflector
-alias mirup="sudo reflector --verbose -p https -a 24 -f 10 --sort rate --save /etc/pacman.d/mirrorlist"
+
+# Rate-Mirrors
+alias mirup="sudo rate-mirrors --allow-root --protocol https --top-mirrors-number-to-retest 30 --max-mirrors-to-output 15 --disable-comments-in-file --save /etc/pacman.d/mirrorlist arch"
 
 # Pacman
 alias pacup="sudo pacman -Syu"
