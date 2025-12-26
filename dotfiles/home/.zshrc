@@ -44,7 +44,7 @@ alias ls="ls --color=auto"
 # Fastfetch
 alias sysinfo="fastfetch"
 # Reflector
-alias mirup="sudo reflector --verbose -c CA,US -l 20 -f 10  -p https --sort rate --save /etc/pacman.d/mirrorlist"
+alias mirup="sudo reflector --verbose -p https -a 24 -f 10 --sort rate --save /etc/pacman.d/mirrorlist"
 
 # Pacman
 alias pacup="sudo pacman -Syu"
