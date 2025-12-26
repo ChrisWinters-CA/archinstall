@@ -81,6 +81,7 @@ user_pref("network.prefetch-next", false);
 *****************************
 
 /* DISABLE ML/AI */
+user_pref("browser.ml.chat.enabled", false);
 user_pref("browser.ml.chat.maxLength", 0);
 user_pref("browser.ml.chat.page", false);
 user_pref("browser.ml.chat.page.footerBadge", false);
