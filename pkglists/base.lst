@@ -8,8 +8,6 @@ linux
 linux-headers
 linux-firmware-amdgpu
 linux-firmware-intel
-linux-firmware-mediatek
-linux-firmware-qlogic
 linux-firmware-realtek
 nano
 openssh
