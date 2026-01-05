@@ -3,11 +3,9 @@
 * Written by: Chris Winters *
 *****************************
 
-
 /****************************
 * START: PERFORMANCE TWEAKS *
 *****************************
-
 /* DISK CACHE */
 user_pref("browser.cache.disk.enable", false);
 
@@ -75,11 +73,9 @@ user_pref("network.prefetch-next", false);
 * END: PERFORMANCE TWEAKS *
 ***************************
 
-
 /****************************
 * START: PRIVACY & SECURITY *
 *****************************
-
 /* DISABLE ML/AI */
 user_pref("browser.ml.chat.enabled", false);
 user_pref("browser.ml.chat.maxLength", 0);
@@ -145,7 +141,7 @@ user_pref("network.IDN_show_punycode", true);
 /* DNS OVER HTTPS */
 user_pref("network.trr.max-fails", 5);
 user_pref("network.trr.mode", 2);
-user_pref("network.trr.uri", "https://doh.libredns.gr/noads");
+user_pref("network.trr.uri", "https://dns.quad9.net/dns-query");
 
 /* HTTPS-ONLY MODE */
 user_pref("dom.security.https_only_mode", true);
@@ -227,11 +223,9 @@ user_pref("network.connectivity-service.enabled", false);
 * END: PRIVACY & SECURITY *
 ***************************
 
-
 /*************************************
 * START: USER INTERFACE & EXPERIENCE *
 **************************************
-
 /* MOZILLA UI */
 user_pref("browser.aboutConfig.showWarning", false);
 user_pref("browser.aboutwelcome.enabled", false);
