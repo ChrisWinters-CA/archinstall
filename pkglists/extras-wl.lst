@@ -24,6 +24,9 @@ jellyfin-ffmpeg
 jellyfin-server
 jellyfin-web
 jre-openjdk
+jre11-openjdk
+jre17-openjdk
+jre21-openjdk
 lib32-alsa-lib
 lib32-alsa-plugins
 lib32-gamemode
