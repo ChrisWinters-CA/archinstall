@@ -62,7 +62,9 @@ libxcomposite
 libxinerama
 libxslt
 mangohud
+mpd
 mpv
+ncmpcpp
 ncurses
 networkmanager
 noto-fonts-cjk
