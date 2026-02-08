@@ -5,11 +5,13 @@ dkms
 git
 intel-ucode
 linux
-linux-headers
 linux-firmware-amdgpu
 linux-firmware-intel
 linux-firmware-mediatek
 linux-firmware-qlogic
 linux-firmware-realtek
+linux-headers
+linux-lts
+linux-lts-headers
 nano
 openssh
