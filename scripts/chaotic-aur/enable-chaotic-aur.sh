@@ -11,7 +11,6 @@ pacman -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-mirrorlist.pkg.tar.
 # Append the Chaotic AUR repository to the end of /etc/pacman.conf
 {
     printf '\n'
-    printf '# User Defined Repositories\n\n'
     printf '[chaotic-aur]\n'
     printf 'Include = /etc/pacman.d/chaotic-mirrorlist'
 } >> /etc/pacman.conf
