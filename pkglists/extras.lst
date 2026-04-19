@@ -1,6 +1,8 @@
 bluez
 bluez-tools
 bluez-utils
+btop
+cachyos-rate-mirror
 ddclient
 dolphin-emu
 fastfetch
@@ -9,7 +11,6 @@ giflib
 gnupg
 gnutls
 gst-plugins-base-libs
-btop
 jellyfin-ffmpeg
 jellyfin-server
 jellyfin-web
@@ -51,7 +52,6 @@ libxslt
 mangohud
 mpd
 mpv
-rmpc
 ncurses
 networkmanager
 noto-fonts-cjk
@@ -66,12 +66,15 @@ pipewire-jack
 pipewire-pulse
 plymouth
 prismlauncher
+rate-mirrors
 rebuild-detector
 retroarch
 retroarch-assets-ozone
+retroarch-assets-xmb
+rmpc
 samba
-sshfs
 sqlite
+sshfs
 steam
 system-config-printer
 ttf-dejavu
