@@ -64,4 +64,4 @@ alias keyup="sudo pacman -Sy --needed archlinux-keyring"
 alias keyrefresh="sudo pacman-keyring --refresh-keys"
 
 # Full System Upgrade
-alias arch-upgrade="mirup && keyup && parup"
+alias arch-upgrade="keyup && parup"
