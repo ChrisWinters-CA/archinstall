@@ -31,9 +31,9 @@ kio-extras
 kio-fuse
 kio-gdrive
 kio-zeroconf
-kitty
 kjournald
 kmenuedit
+konsole
 kpat
 kpipewire
 kscreen
@@ -75,3 +75,4 @@ spectacle
 svgpart
 systemsettings
 xdg-desktop-portal-kde
+yakuake
