@@ -9,11 +9,9 @@ pacman -U --noconfirm 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring
 pacman -U --noconfirm 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-mirrorlist.pkg.tar.zst'
 
 # Append the Chaotic AUR repository to the end of /etc/pacman.conf
-{
-    printf '\n'
-    printf '[chaotic-aur]\n'
-    printf 'Include = /etc/pacman.d/chaotic-mirrorlist'
-} >> /etc/pacman.conf
+sed -i '/^\[.*\]/h; /^# An example of a custom/ {
+    x; s/.*/[chaotic-aur]\nInclude = \/etc\/pacman.d\/chaotic-mirrorlist\n/; G
+    }' /etc/pacman.conf
 
 # Force a full refresh of the pacman database to include the Chaotic AUR
 pacman -Syy
