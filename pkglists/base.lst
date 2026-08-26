@@ -1,7 +1,5 @@
 base
 base-devel
-dhcpcd
-dkms
 git
 intel-ucode
 linux
@@ -14,4 +12,5 @@ linux-headers
 linux-lts
 linux-lts-headers
 nano
+networkmanager
 openssh
