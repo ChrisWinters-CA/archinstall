@@ -1,16 +1,13 @@
 aic94xx-firmware
 ast-firmware
-brave-origin-bin
 cantata
 cemu-git
 flycast
 heroic-games-launcher-bin
 jellium-desktop-git
 pcsx2-git
-proton-cachyos-native
 proton-cachyos-slr
 nerd-fonts-noto-sans-mono
-ttf-meslo-nerd-font-powerlevel10k
 upd72020x-fw
 vesktop
 volantes-cursors
@@ -18,5 +15,4 @@ wayvr-git
 wd719x-firmware
 wivrn-dashboard
 wivrn-server
-zmusic
 zsh-theme-powerlevel10k-git
