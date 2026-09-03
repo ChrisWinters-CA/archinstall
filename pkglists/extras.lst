@@ -6,7 +6,6 @@ ddclient
 dolphin-emu
 fastfetch
 firefox
-firewalld
 gamemode
 gnupg
 jellyfin-ffmpeg
@@ -35,6 +34,7 @@ steam
 system-config-printer
 ttf-dejavu
 ttf-liberation
+ufw
 unrar
 unzip
 wayland
