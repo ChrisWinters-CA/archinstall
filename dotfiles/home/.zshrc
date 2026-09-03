@@ -18,23 +18,20 @@ autoload -Uz compinit
 compinit
 # End of lines added by compinstall
 
-## Environment Variables
-
-# GnuPG
-export SSH_AGENT_PID=""
-export SSH_AUTH_SOCK="${XDG_RUNTIME_DIR}/gnupg/S.gpg-agent.ssh"
 
 ## ZSH Themes and Plugins
-
 # Powerlevel10k Theme
 source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
+
+# Auto-Suggestions
+source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+
+# Syntax Highlighting
+source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-# ZSH Plugins
-source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 ## Alias
 
@@ -44,24 +41,6 @@ alias ls="ls --color=auto"
 # Fastfetch
 alias sysinfo="fastfetch"
 
-# Rate-Mirrors
-alias mirup="sudo rate-mirrors --allow-root --protocol https --top-mirrors-number-to-retest 30 --max-mirrors-to-output 15 --disable-comments-in-file --save /etc/pacman.d/mirrorlist arch"
-
-# Pacman
-alias pacup="sudo pacman -Syu"
-alias pacin="sudo pacman -S"
-alias pacse="sudo pacman -Ss"
-alias pacre="sudo pacman -R"
-alias pacor="sudo pacman -Qdtq | sudo pacman -Rns -"
-
-# Paru
-alias parup="paru -Syu"
-alias parin="paru -S"
-alias parun="paru -R"
-
 # Pacman Keyring
 alias keyup="sudo pacman -Sy --needed archlinux-keyring"
 alias keyrefresh="sudo pacman-keyring --refresh-keys"
-
-# Full System Upgrade
-alias arch-upgrade="keyup && parup"
