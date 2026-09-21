@@ -34,17 +34,14 @@ pipewire-alsa
 pipewire-audio
 pipewire-jack
 pipewire-pulse
-pkgfile
 plymouth
 power-profiles-daemon
 prismlauncher
-realtime-privileges
 rebuild-detector
 retroarch
 smartmontools
 sshfs
 steam
-system-config-printer
 ttf-dejavu
 ttf-liberation
 ufw
@@ -52,9 +49,7 @@ ufw-extras
 unrar
 unzip
 upower
-usb_modeswitch
 wayland
-wireless-regdb
 wireplumber
 wpa_supplicant
 xdg-user-dirs
