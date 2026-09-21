@@ -16,4 +16,5 @@ linux-lts-headers
 nano
 networkmanager
 pacman-contrib
+snapper
 openssh
