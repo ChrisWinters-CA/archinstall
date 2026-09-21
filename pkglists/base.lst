@@ -16,4 +16,5 @@ linux-lts
 linux-lts-headers
 nano
 networkmanager
+pacman-contrib
 openssh
