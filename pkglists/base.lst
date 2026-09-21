@@ -5,7 +5,6 @@ efitools
 ethtool
 git
 intel-ucode
-iwd
 linux
 linux-firmware
 linux-firmware-qlogic
@@ -16,4 +15,3 @@ nano
 networkmanager
 pacman-contrib
 openssh
-wpa_supplicant
