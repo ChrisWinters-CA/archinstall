@@ -1,9 +1,6 @@
 base
 base-devel
-btrfs-progs
 dosfstools
-efitools
-ethtool
 exfatprogs
 git
 intel-ucode
@@ -16,5 +13,4 @@ linux-lts-headers
 nano
 networkmanager
 pacman-contrib
-snapper
 openssh
