@@ -21,7 +21,6 @@ gnome-music
 gnome-session
 gnome-settings-daemon
 gnome-shell
-gnome-system-monitor
 gnome-text-editor
 gnome-tweaks
 gnome-user-docs
@@ -43,6 +42,7 @@ loupe
 nautilus
 orca
 papers
+resources
 seahorse
 showtime
 sushi
