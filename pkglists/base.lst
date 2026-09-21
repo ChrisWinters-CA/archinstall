@@ -1,5 +1,6 @@
 base
 base-devel
+btrfs-progs
 dosfstools
 exfatprogs
 git
@@ -12,5 +13,6 @@ linux-lts
 linux-lts-headers
 nano
 networkmanager
-pacman-contrib
 openssh
+pacman-contrib
+snapper
