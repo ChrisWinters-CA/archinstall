@@ -3,7 +3,7 @@ base-devel
 dosfstools
 efitools
 ethtool
-exfat-utils
+exfatprogs
 git
 intel-ucode
 linux
