@@ -1,5 +1,8 @@
 base
 base-devel
+dosfstools
+efitools
+ethtool
 git
 intel-ucode
 linux
