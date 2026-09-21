@@ -15,7 +15,6 @@ dolphin-emu
 fastfetch
 gamemode
 gnupg
-iwd
 jellyfin-ffmpeg
 jellyfin-server
 jellyfin-web
@@ -51,7 +50,6 @@ unzip
 upower
 wayland
 wireplumber
-wpa_supplicant
 xdg-user-dirs
 xdg-utils
 xl2tpd
