@@ -21,6 +21,7 @@ jellyfin-web
 lib32-gamemode
 lib32-mangohud
 lib32-pipewire
+lib32-pipewire-jack
 libinput
 mangohud
 mpd
