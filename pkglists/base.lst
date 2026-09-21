@@ -1,5 +1,6 @@
 base
 base-devel
+btrfs-progs
 dosfstools
 efitools
 ethtool
