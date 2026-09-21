@@ -13,7 +13,6 @@ ddclient
 dnsmasq
 dolphin-emu
 fastfetch
-firefox
 gamemode
 gnupg
 iwd
@@ -25,15 +24,11 @@ lib32-mangohud
 lib32-pipewire
 libinput
 mangohud
-modemmanager
 mpd
 mpv
-ndd-mdns
 nfs-utils
-nilfs-utils
 noto-fonts-cjk
 p7zip
-pacman-contrib
 pipewire
 pipewire-alsa
 pipewire-audio
