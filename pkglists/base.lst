@@ -15,4 +15,5 @@ nano
 networkmanager
 openssh
 pacman-contrib
+plymouth
 snapper
