@@ -1,6 +1,5 @@
 base
 base-devel
-btrfs-progs
 dosfstools
 exfatprogs
 git
@@ -16,4 +15,3 @@ networkmanager
 openssh
 pacman-contrib
 plymouth
-snapper
